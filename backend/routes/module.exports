@@ -1,0 +1,16 @@
+router.get("/history", async (req, res) => {
+  try {
+
+    const history = await SensorData
+      .find()
+      .sort({ createdAt: -1 })
+      .limit(20);
+
+    res.json(history);
+
+  } catch (error) {
+    res.status(500).json({
+      message: error.message
+    });
+  }
+});
