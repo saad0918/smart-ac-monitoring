@@ -120,9 +120,11 @@ The project demonstrates **IoT communication, sensor integration, REST API devel
       Temperature       Energy Data       Temperature
       Humidity          History            Fan Speed
       Air Quality       Alerts             Swing
-      Motion            AI Insights
-      Obstacle
-      🧠 Key Learning
+
+
+
+
+🧠 Key Learning
 
 Through this project, I worked with:
 
@@ -172,3 +174,7 @@ CSE Graduate | Full-Stack Developer | AI/ML Enthusiast
 <p align="center"> ⭐ If you like this project, consider giving it a star! </p> <p align="center"> <b>❄️ Monitor. Control. Optimize. 🚀</b> </p> ```
 
 This is the same style as your Weather App README: badges → overview → features → flow → API → components → tech stack → structure → setup → learning → future → author.
+
+      Motion            AI Insights
+      Obstacle
+      
